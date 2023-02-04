@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
+DMMWEBキャンプの学習コンテンツRAlisの研修課題です
